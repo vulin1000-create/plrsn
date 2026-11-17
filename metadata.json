@@ -1,0 +1,6 @@
+{
+  "name": "Phân Loại Rác Siêu Nhí - Green Planet",
+  "description": "Trò chơi giáo dục phân loại rác dành cho học sinh tiểu học (6-10 tuổi), chạy offline, lưu trữ dữ liệu học tập và phân tích rác hay nhầm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
